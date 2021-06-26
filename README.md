@@ -2,7 +2,6 @@
 <h4>A Girl trying to Figure-Out Stuff!!</h4>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45056329/123519045-9ebd3200-d6c6-11eb-8edb-40102e28e19a.gif?raw=true" width="500" height="320" />
 
-
 - ✍ You can find my projects here
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning Python and NodeJs
