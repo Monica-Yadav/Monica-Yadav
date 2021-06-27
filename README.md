@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Python and NodeJs
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 📫 How to reach me **monuyadav9967@gmail.com**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to find ✨Happiness✨ in every little things.
 
