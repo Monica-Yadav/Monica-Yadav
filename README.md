@@ -22,7 +22,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Monica-Yadav&label=Profile%20views&color=b04c4c&style=plastic" alt="Monica-Yadav" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Monica-Yadav&show_icons=true&locale=en&layout=compact" alt="Monica-Yadav" /></p>
 <h4>View my verified achievement:<h4>
-<p><a href="https://www.credly.com/badges/1c863fb3-7e7a-4ef5-8b67-498a265e9713/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" height="150" width="150" /></a></p>
+<p><a href="https://www.credly.com/badges/1c863fb3-7e7a-4ef5-8b67-498a265e9713/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" height="150" width="150" /></a>
+  <a href="https://www.credly.com/badges/8c976118-4749-40bb-8500-a245deaa3d58/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="150" width="150" /></a>
+ 
+ </p>
 
  
  
